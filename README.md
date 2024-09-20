@@ -1,5 +1,10 @@
 #  Socket.IO Real-time Chat Project
 
+
+
+
+
+
 # Built a real-time chat application using HTML, CSS, and Socket.IO
 # Implemented user authentication, allowing users to join the chat by entering a username
 # Enabled real-time messaging with instant message transmission and reception
